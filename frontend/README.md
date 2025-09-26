@@ -82,7 +82,17 @@
   - **검사 이미지 업로드**: 사진 미리보기/삭제 기능, 서버 연동 API 구축
   - **공정 관리 UI**: Select Box, Modal, Confirm/Warning 창을 활용한 직관적 UX 제공
 - **성과**:
+
   - 관리자가 직접 **생산 라인 사용자 등록/수정 가능**
   - 기존 수작업 Excel 관리 → **웹 기반 관리로 전환**
+
+  ![alt text](./mes/image.png)
+  ![alt text](./mes/image-1.png)
+  ![alt text](./mes/image-2.png)
+  ![alt text](./mes/image-3.png)
+  ![alt text](./mes/image-4.png)
+  ![alt text](./mes/image-5.png)
+  ![alt text](./mes/image-6.png)
+  ![alt text](./mes/image-7.png)
 
 ---
